@@ -1,6 +1,8 @@
 # About Project
 This project is a simplified front end clone of Netflix, built with HTML, CSS, and JS. It displays the home page of Netflix with interactive movie selections.
 
+TMDB API is used for this clone.
+
 # Interactive Movie Selections
 
 The movie selections on the home page are interactive. You can click on a movie poster to view more information about the movie.
