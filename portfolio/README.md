@@ -1,8 +1,8 @@
-#Personal Portfolio Website
+# Personal Portfolio Website
 
 A simple personal portfolio site built with HTML and CSS. Showcase your skills and projects in a clean, responsive design.
 
-#Quick Start
+# Quick Start
 
 1. Clone or download the project.
 2. Edit the index.html to update your content.
