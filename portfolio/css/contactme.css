@@ -1,0 +1,37 @@
+.conbtn{
+    color: rgb(128, 255, 0);
+    font-style: italic;
+    font-weight: 600;
+}
+.contact-form {
+    max-width: 500px;
+    margin: 100px 60px;
+}
+input[type="text"],input[type="email"],textarea {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 10px;
+    border: 2px solid #000000;
+    resize: vertical;
+    font-size: 0.5cm;
+    font-family: 'Inter Tight', sans-serif;
+}
+button[type="submit"] {
+    background-color: #222831;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    width: 533px;
+    height: 60px;
+    font-size: 0.5cm;
+    font-family: 'Inter Tight', sans-serif;
+    transition: background-color 0.7s, color 0.7s, font-family 0.7s;
+}
+button[type="submit"]:hover {
+    background-color:  rgb(128, 255, 0);
+    font-family: 'EB Garamond', serif;
+    font-weight: 700;
+    font-style: italic;
+    color: black;
+}

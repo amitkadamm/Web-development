@@ -1,0 +1,24 @@
+.hmbtn{
+    color: rgb(128, 255, 0);
+    font-style: italic;
+    font-weight:600;
+}
+.main-content{
+    margin-top: 150px;
+    margin-left: 60px;
+}
+.bh1{
+    font-family:'Inter Tight', sans-serif;
+    font-size: 2cm;
+    font-weight: 600;
+    color: rgb(127, 223, 31);
+}
+.bh2{
+    font-family:  'EB Garamond', serif;
+    font-size: 0.9cm;
+    font-weight: 400;
+    font-style: italic;
+}
+.img-container{
+    text-align: right;
+}

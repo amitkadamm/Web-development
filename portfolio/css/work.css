@@ -1,0 +1,33 @@
+.wrkbtn{
+    color: rgb(128, 255, 0);
+    font-style: italic;
+    font-weight: 600;
+}
+.main-content{
+    margin: 40px;
+}
+.body-content{
+    padding: 20px;
+}
+.content-heading{
+    margin-top: 40px;;
+    font-size: 0.9cm;
+    font-family: 'Inter Tight', sans-serif;
+    color: rgb(127, 223, 31);
+}
+.content-body{
+    font-size: 0.8cm;
+    max-width: 70%;
+    text-align: justify;
+    padding-top: 15px;
+    font-style: italic;
+}
+.content-link{
+    text-decoration: none;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    transition: color 0.2s;
+}
+.content-link:hover{
+    color: rgb(106, 213, 0);
+}
