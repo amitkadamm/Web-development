@@ -15,3 +15,4 @@ Note: You cannot click to play a movie in this project.
 
 This is a simple front end clone of Netflix, built with HTML, CSS, and JS. It displays the home page of Netflix with interactive movie selections. You can use this project as a starting point to build your own Netflix clone, or to learn more about front end development.
 
+Thank You!
