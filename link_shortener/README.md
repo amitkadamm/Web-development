@@ -19,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Reactjs: https://reactjs.org/docs/create-a-new-react-app.html
 
-Shortener Api: https://shrtco.de/
+Shortener Api: [https://shrtco.de/](https://publicapis.io/shrtcode-api)
 
 font family: https://fonts.google.com/specimen/Playfair+Display
 
